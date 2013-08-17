@@ -5,7 +5,9 @@
 						<div class="acslide"></div>
 						<div class="imgslide"></div>
 					</div>
-					<div class="s2"></div>
+					<div class="s2">
+						
+					</div>
 					<div class="s3"></div>
 					<div class="s4"></div>
 					<div class="s5">
