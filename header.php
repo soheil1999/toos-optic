@@ -4,7 +4,7 @@
     <style type="text/css">
 
     </style>
-<link href="<?php bloginfo('template_url');?>\style.css" rel="stylesheet" type="text/css" />	<meta charset="UTF-8">
+<link href="<?php bloginfo('template_url');?>/style.css" rel="stylesheet" type="text/css" />	<meta charset="UTF-8">
 <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/script.js"></script>
 
 	<title>Document</title>
